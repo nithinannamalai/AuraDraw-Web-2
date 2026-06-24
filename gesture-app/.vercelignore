@@ -1,0 +1,5 @@
+# Ignore local Python files during Vercel static deployment
+app.py
+requirements.txt
+venv/
+.venv/
